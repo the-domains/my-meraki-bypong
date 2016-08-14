@@ -1,0 +1,28 @@
+name: 'My Meraki – #ByPong'
+favicon: null
+layout_spectrum: 0.19254109519533813
+typography_spectrum: 0.5774651519022882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5416257630567998
+  lightness: 0.40010291850194335
+  saturation: 0.9647696265019476
+  rhythmicContrast: 0.8673041104339063
+purpose: []
