@@ -1,28 +1,40 @@
-name: 'My Meraki – #ByPong'
-favicon: null
-layout_spectrum: 0.19254109519533813
-typography_spectrum: 0.5774651519022882
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5451128
+  brandStrength: 0.5416257630567998
+  lightness: 0.4001029
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5416257630567998
-  lightness: 0.40010291850194335
-  saturation: 0.9647696265019476
-  rhythmicContrast: 0.8673041104339063
-purpose: []
+  rhythmicContrast: 0.4828142
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: 'My Meraki – #ByPong'
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1562836
+layout_spectrum: 0.2218045
